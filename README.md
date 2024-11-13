@@ -23,6 +23,7 @@ You should see the following output:
 
 ### Configuration
 
+
 #### Wallet
 
 - `PRIVATE_KEY` - Your wallet's private key.
